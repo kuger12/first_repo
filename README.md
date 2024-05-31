@@ -1,2 +1,2 @@
-# first_repo
-to train on  git , github
+### first_repo
+hello
